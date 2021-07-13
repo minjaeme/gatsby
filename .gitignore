@@ -1,3 +1,6 @@
+delete
+nohup*
+.env*
 # Logs
 logs
 *.log
